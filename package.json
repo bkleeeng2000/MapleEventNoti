@@ -1,0 +1,14 @@
+{
+  "name": "maplestory_event_noti",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lee ChaeHo",
+  "license": "ISC"
+}
