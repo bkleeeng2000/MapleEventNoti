@@ -244,4 +244,8 @@ temp/
 .history
 .ionide
 
+### Project ###
+bin/config.json
+bin/db.js
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,intellij,node
