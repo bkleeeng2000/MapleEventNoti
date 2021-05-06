@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --experimental-json-modules index.js"
   },
   "author": "Lee ChaeHo",
   "license": "ISC",
